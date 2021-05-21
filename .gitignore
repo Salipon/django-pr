@@ -1,3 +1,5 @@
 /.venv
 /.vscode
 /db.sqlite3
+/projects/__pycache__
+/personal_portfolio/__pycache__
